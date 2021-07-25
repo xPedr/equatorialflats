@@ -10,7 +10,7 @@
                 "format": "3 dormrooms"
             },{
                 "id": 3,
-                "rooms": "Custom"
+                "format": "other"
             }
         ],
         "types": [
@@ -67,6 +67,5 @@
                 "format": "Nature Urban"
             }
         ]
-    },
-    "resources": []
+    }
 }

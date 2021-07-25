@@ -97,7 +97,7 @@ export default {
   },
   methods: {
     async getForm() {
-      const req = await fetch("https://equatorialflats.netlify.app:3000/schemes");
+      const req = await fetch("http://localhost:3000/schemes");
       const data = await req.json();
 
       this.dormrooms = data.dormrooms;
