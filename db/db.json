@@ -1,0 +1,72 @@
+{
+    "schemes": {
+        "dormrooms": [
+            {
+                "id": 1,
+                "format": "2 dormrooms"
+            },
+            {
+                "id": 2,
+                "format": "3 dormrooms"
+            },{
+                "id": 3,
+                "rooms": "Custom"
+            }
+        ],
+        "types": [
+            {
+                "id": 1,
+                "format": "House"
+            },
+            {
+                "id": 2,
+                "format": "Apartment"
+            }
+
+        ],
+        "garages": [
+            {
+                "id": 1,
+                "format": "1 Vacancy"
+            },{
+                "id": 2,
+                "format": "2 Vacancy"
+            }
+        ],
+        "decorations": [
+            {
+                "id": 1,
+                "format": "Basic"
+            },
+            {
+                "id": 2,
+                "format": "Custom"
+            },
+            {
+                "id": 3,
+                "format": "Gamer"
+            },
+            {
+                "id": 4,
+                "format": "Home Office"
+            },
+            {
+                "id": 5,
+                "format": "Ellegant"
+            },
+            {
+                "id": 6,
+                "format": "Studio"
+            },
+            {
+                "id": 7,
+                "format": "Native"
+            },
+            {
+                "id": 8,
+                "format": "Nature Urban"
+            }
+        ]
+    },
+    "resources": []
+}
