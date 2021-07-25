@@ -6,7 +6,7 @@
       <div id="txt1">
         <h2>Always warm!</h2>
         <p>
-          On zone equatorial you can usufrute the Sun all year! Our products are placed in
+          On zone equatorial you can enjoy the Sun all year! Our products are placed in
           seaside cities! We have beach houses too!
         </p>
         <h3>Enjoy the heat when the summer never ends!</h3>
