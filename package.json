@@ -23,5 +23,17 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^7.0.0"
-  }
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xPedr/equatorialflats.git"
+  },
+  "author": "xpedr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xPedr/equatorialflats/issues"
+  },
+  "homepage": "https://github.com/xPedr/equatorialflats#readme"
 }

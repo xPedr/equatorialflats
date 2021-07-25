@@ -63,11 +63,7 @@
           </option>
         </select>
       </div>
-      <input
-        type="hidden"
-        name="_next"
-        value="https://equatorialflats.netlify.app/thanks"
-      />
+      <input type="hidden" name="_next" value="https://www.equatorialflats.com/thanks" />
       <input
         type="hidden"
         name="_subject"
@@ -97,7 +93,7 @@ export default {
   },
   methods: {
     async getForm() {
-      const req = await fetch("http://localhost:3000/schemes");
+      const req = await fetch("http://www.equatorialflats.com/schemes");
       const data = await req.json();
 
       this.dormrooms = data.dormrooms;
